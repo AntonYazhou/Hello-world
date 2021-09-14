@@ -6,7 +6,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/AntonYazhou/Hello-world)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonYazhou)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonYazhou&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonYazhou&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonYazhou&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
